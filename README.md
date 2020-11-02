@@ -1,4 +1,4 @@
-# Life-Expectancy-Prediction-
+# Life-Expectancy-Prediction
 
 The aim of this project is to determine the factors affecting life expectancy in the world.
 
